@@ -1,0 +1,12 @@
+{	
+	"cname":"主页",
+	"data": {
+		
+	},
+	"entries":[
+		{"method":"GET", "router":"/index/index.html", "ttl":0}
+	],
+	"alias": {
+		"desktop":"/desktop/index/index"
+	}
+}
